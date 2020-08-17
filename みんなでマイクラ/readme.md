@@ -2,7 +2,7 @@
 
 週1程度を目標にマイクラのライブ配信をします。
 
-![初回配信サムネ](初回サムネ.jpg)
+![初回配信サムネ](fig/初回サムネ.jpg)
 
 ※初回サムネは「以前やっていた別ワールド」からのスクショ流用です。新規ワールドで開始する予定。
 
@@ -72,12 +72,12 @@
 
 以下、参考資料として、主催者が直近でプレイしていた別ワールドの個人拠点のスクショ。
 
-![前ワールドスクショ1](LatestWorld1.jpg)
+![前ワールドスクショ1](fig/LatestWorld1.jpg)
 
-![前ワールドスクショ2](LatestWorld2.jpg)
+![前ワールドスクショ2](fig/LatestWorld2.jpg)
 
-![前ワールドスクショ3](LatestWorld3.jpg)
+![前ワールドスクショ3](fig/LatestWorld3.jpg)
 
-![前ワールドスクショ4](LatestWorld4.jpg)
+![前ワールドスクショ4](fig/LatestWorld4.jpg)
 
-![前ワールドスクショ5](LatestWorld5.jpg)
+![前ワールドスクショ5](fig/LatestWorld5.jpg)
