@@ -2,6 +2,8 @@
 
 配信チャンネル: https://www.youtube.com/channel/UCY-z_9mau6X-Vr4gk2aWtMQ
 
+経緯(& 1年経って)の話のブログ: [YouTube で C# がらみのライブ配信初めてました(1年経った)](https://ufcpp.net/blog/2021/3/ufcpplive/)
+
 その他、中の人関連:
 
 - twitter: https://twitter.com/ufcpp
