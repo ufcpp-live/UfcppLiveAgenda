@@ -1,0 +1,16 @@
+[*]
+charset = utf-8
+end_of_line = lf
+
+[*.cs]
+#dotnet_diagnostic.CA1307.severity = error
+#dotnet_diagnostic.CA1310.severity = error
+#dotnet_diagnostic.CA1304.severity = error
+#dotnet_diagnostic.CA1305.severity = error
+
+csharp_style_namespace_declarations=file_scoped:suggestion
+
+
+[*.csproj]
+indent_size = 2
+indent_style = space
