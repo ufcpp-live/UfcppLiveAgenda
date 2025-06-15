@@ -1,4 +1,8 @@
-#!/usr/bin/env dotnet
+// see also: CompoundPlus.cs
+
+// 今回入った += と、以前からある + はどっちも書ける。
+// 整合性合わない実装も書こうと思えば書けるけど、良い子はまねしちゃだめ。
+
 #:property LangVersion preview
 
 {
