@@ -21,9 +21,9 @@ using System.Runtime.InteropServices;
 // みたいな構文も提案はある。
 [Union]
 [StructLayout(LayoutKind.Explicit)]
-readonly struct DU : IUnion
+readonly struct DU
 {
-    [FieldOffset(4)]
+    [FieldOffset(8)]
     private readonly byte _type;
 
     [FieldOffset(0)] private readonly int _x;
