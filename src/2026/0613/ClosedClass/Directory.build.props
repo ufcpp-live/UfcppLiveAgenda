@@ -1,0 +1,5 @@
+<Project>
+  <ItemGroup>
+    <Compile Include="ClosedAttribute.cs" />
+  </ItemGroup>
+</Project>
