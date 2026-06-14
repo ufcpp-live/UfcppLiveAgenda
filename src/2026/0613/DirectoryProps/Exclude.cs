@@ -1,7 +1,9 @@
 #!
 
 // Directory.build.props で Include してる X.cs を除外する例。
-#:exclude X.cs
+#:include *.cs
+#:exclude KeySelector.cs
+#:exclude UnionPattern.cs
 
 Console.WriteLine(X.Name); // 除外したので X クラスが見つからずコンパイルエラー。
 
