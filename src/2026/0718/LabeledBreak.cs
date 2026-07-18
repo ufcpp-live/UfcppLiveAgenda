@@ -1,6 +1,8 @@
 #!
 #:property LangVersion=preview
 
+// for, foreach, while とかの前にラベルを付けて、そこに向かって break X; や continue X; できるようになった。
+
 int[] values = [1, 2, 3];
 string[] names = ["A", "B", "C"];
 

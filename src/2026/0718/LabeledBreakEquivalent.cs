@@ -1,6 +1,11 @@
 #!
 #:property LangVersion=preview
 
+// Labeld break/continue 相当のこと、今までは goto が必要。
+// できはするけど、ラベルの位置でちょい悩む。
+
+// break 相当の方は「use labeld jump statement」 code fix が出るようになってる。
+
 int[] values = [1, 2, 3];
 string[] names = ["A", "B", "C"];
 
